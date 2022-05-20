@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="author" content="Sett">
+    <meta name="theme-color" content="#e9d38d">
+    <meta name="description" content="Anonymous file sharing">
+    <meta charset="utf-8"/>
+    <title>FileTap</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="favorite icon" href="F.svg">
+    <link rel="apple-touch-icon" href="icon-256x256.png">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet">
+</head>
+<body>
+<dialog></dialog>
+<div id="root"></div>
+<div id="toast">This is a toast message</div>
+<script src="filetap.js"></script>
+<script>
+    // Check that service workers are supported
+    if ('serviceWorker' in navigator) {
+        // Use the window load event to keep the page load performant
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js');
+        });
+    }
+</script>
+</body>
+</html>
