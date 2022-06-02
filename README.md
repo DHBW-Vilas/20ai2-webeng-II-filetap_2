@@ -4,24 +4,6 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/Sett17/filetap.svg?style=flat-square)](LICENSE)
-
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/Sett17/filetap/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by Sett17](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Sett17-ff1414.svg?style=flat-square)](https://github.com/Sett17)
-
-</div>
-
----
-
-## About
-
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
-
 <details>
 <summary>Screenshots</summary>
 <br>
