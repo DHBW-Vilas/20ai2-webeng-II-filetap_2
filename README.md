@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="src/commonMain/resources/F.svg" alt="Logo" width="100" height="100">
 </h1>
-<div align="center">
 <br />
 
 <details>
