@@ -47,6 +47,7 @@ dialog > div button:hover {
 }
 dialog > * {
   margin: 2vh;
+  word-break: break-word;
   text-align: center;
 }
 dialog[open] ~ #root {
