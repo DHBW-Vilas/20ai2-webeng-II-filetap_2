@@ -1,5 +1,5 @@
 ***stage*t
-start gradlew.bat stage -PisProduction
+start gradlew.bat stage -PisProduction --no-daemon
 
 ***deploy*t*+PATH*
 if [ -z "$DEV_PATH" ]; then
