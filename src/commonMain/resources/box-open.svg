@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 720 600.444" width="720pt" height="600.444pt">
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 720 600.444" width="720pt" height="600.444pt">
     <defs>
         <clipPath id="_clipPath_5rCGyphA4141hibWZKH6nMKy9l0gBf4y">
-            <rect x="0" y="0" width="720" height="600.444"/>
+            <rect x="0" y="0" width="720" height="600.444" />
         </clipPath>
     </defs>
     <g clip-path="url(#_clipPath_5rCGyphA4141hibWZKH6nMKy9l0gBf4y)">
         <g style="isolation:isolate">
-            <path d=" M 420 288.675 L 80 484.974 L 280 600.444 L 620 404.145 L 420 288.675 Z " fill="rgb(68,58,44)"/>
-            <path d=" M 420 103.923 L 420 288.675 L 620 404.145 L 620 219.393 L 420 103.923 Z " fill="rgb(119,103,77)"/>
-            <path d=" M 420 103.923 L 80 300.222 L 80 484.974 L 420 288.675 L 420 103.923 Z " fill="rgb(131,115,92)"/>
-            <path d=" M 80 300.222 L 80 484.974 L 280 600.444 L 280 415.692 L 80 300.222 Z " fill="rgb(183,160,128)"/>
-            <path d=" M 620 219.393 L 280 415.692 L 280 600.444 L 620 404.145 L 620 219.393 Z " fill="rgb(171,147,111)"/>
+            <path d=" M 420 288.675 L 80 484.974 L 280 600.444 L 620 404.145 L 420 288.675 Z " fill="rgb(68,58,44)" />
+            <path d=" M 420 103.923 L 420 288.675 L 620 404.145 L 620 219.393 L 420 103.923 Z "
+                fill="rgb(119,103,77)" />
+            <path d=" M 420 103.923 L 80 300.222 L 80 484.974 L 420 288.675 L 420 103.923 Z " fill="rgb(131,115,92)" />
+            <path d=" M 80 300.222 L 80 484.974 L 280 600.444 L 280 415.692 L 80 300.222 Z " fill="rgb(183,160,128)" />
+            <path d=" M 620 219.393 L 280 415.692 L 280 600.444 L 620 404.145 L 620 219.393 Z "
+                fill="rgb(171,147,111)" />
         </g>
         <g style="isolation:isolate">
-            <path d=" M 320 461.88 L 420 404.145 L 420 496.521 L 320 554.256 L 320 461.88 Z " fill="none" vector-effect="non-scaling-stroke" stroke-width="2.5vh" stroke="rgb(68,58,44)" stroke-linejoin="round" stroke-linecap="butt" stroke-miterlimit="3"/>
-            <path d=" M 340 473.427 L 360 461.88 L 360 480.735 L 352 489.735 L 352 509.735 L 360 513.735 L 346 520.735 L 351 510.735 L 351 489.735 L 340 488.735 L 340 473.427 Z " fill="rgb(68,58,44)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(68,58,44)" stroke-linejoin="round"
-                  stroke-linecap="round" stroke-miterlimit="3"/>
-            <path d=" M 400 490.572 L 390 496.333 L 390 464.333 L 381 468.735 L 395 450.333 L 408 454.735 L 400 459.333 L 400 490.572 Z " fill="rgb(68,58,44)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(68,58,44)" stroke-linejoin="round" stroke-linecap="round"
-                  stroke-miterlimit="3"/>
+            <path d=" M 320 461.88 L 420 404.145 L 420 496.521 L 320 554.256 L 320 461.88 Z " fill="none"
+                vector-effect="non-scaling-stroke" stroke-width="2.5vh" stroke="rgb(68,58,44)" stroke-linejoin="round"
+                stroke-linecap="butt" stroke-miterlimit="3" />
+            <path
+                d=" M 340 473.427 L 360 461.88 L 360 480.735 L 352 489.735 L 352 509.735 L 360 513.735 L 346 520.735 L 351 510.735 L 351 489.735 L 340 488.735 L 340 473.427 Z "
+                fill="rgb(68,58,44)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(68,58,44)"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
+            <path
+                d=" M 400 490.572 L 390 496.333 L 390 464.333 L 381 468.735 L 395 450.333 L 408 454.735 L 400 459.333 L 400 490.572 Z "
+                fill="rgb(68,58,44)" vector-effect="non-scaling-stroke" stroke-width="1" stroke="rgb(68,58,44)"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3" />
         </g>
         <g style="isolation:isolate">
-            <path d=" M 80 300.222 L 0 184.752 L 320 0 L 420 103.923" fill="rgb(200,165,123)"/>
-            <path d=" M 420 103.923 L 520 23.094 L 720 138.564 L 620 219.393" fill="rgb(222,187,147)"/>
-            <path d=" M 80 300.222 L 0 323.316 L 200 438.786 L 280 415.692" fill="rgb(220,174,140)"/>
-            <path d=" M 620 219.393 L 720 254.034 L 380 450.333 L 280 415.692" fill="rgb(232,186,140)"/>
+            <path d=" M 80 300.222 L 0 184.752 L 320 0 L 420 103.923" fill="rgb(200,165,123)" />
+            <path d=" M 420 103.923 L 520 23.094 L 720 138.564 L 620 219.393" fill="rgb(222,187,147)" />
+            <path d=" M 80 300.222 L 0 323.316 L 200 438.786 L 280 415.692" fill="rgb(220,174,140)" />
+            <path d=" M 620 219.393 L 720 254.034 L 380 450.333 L 280 415.692" fill="rgb(232,186,140)" />
         </g>
     </g>
 </svg>

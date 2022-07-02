@@ -9,6 +9,8 @@ import kotlinx.datetime.toLocalDateTime
 import kotlinx.serialization.cbor.Cbor
 
 /**
+ * This object is send back and forth while just changing the status.
+ *
  * File request;
  * Approved status:
  *
@@ -35,20 +37,21 @@ data class FileRequest(val recipient: String, val filename: String, val sender: 
 fun FileRequest.Url() = "${sender.replace(" ", "_")}/${filename.encodeURLPath()}"
 
 suspend inline fun <reified T : Any> DefaultWebSocketSession.sendSerial(data: T) {
-    this.sendSerializedBase(data, KotlinxWebsocketSerializationConverter(Cbor), Charsets.UTF_8)
+  this.sendSerializedBase(data, KotlinxWebsocketSerializationConverter(Cbor), Charsets.UTF_8)
 }
 
 inline fun <T> optional(expression: () -> T): T? {
-    return try {
-        expression()
-    } catch (ex: Throwable) {
-        null
-    }
+  return try {
+    expression()
+  } catch (ex: Throwable) {
+    null
+  }
 }
 
 fun log(message: Any) {
-    Clock.System.now().toLocalDateTime(TimeZone.currentSystemDefault()).run {
-        println("${"$dayOfMonth".padStart(2, '0')}/${month} ${"$hour".padStart(2, '0')}:${"$minute".padStart(2, '0')}:${"$second".padStart(2, '0')}: $message")
-        return@run 5
-    }
+  Clock.System.now().toLocalDateTime(TimeZone.currentSystemDefault()).run {
+    // long but understandable
+    println("${"$dayOfMonth".padStart(2, '0')}/${month} ${"$hour".padStart(2, '0')}:${"$minute".padStart(2, '0')}:${"$second".padStart(2, '0')}: $message")
+    return@run 5
+  }
 }

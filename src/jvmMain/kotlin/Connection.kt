@@ -4,12 +4,12 @@ import io.ktor.websocket.*
 val faker = faker {}
 
 data class Connection(
-    val session: DefaultWebSocketSession,
-    val name: String = faker.run {
-        "${color.name()} ${animal.unique.name()}".trim()
-    },
+  val session: DefaultWebSocketSession,
+  val name: String = faker.run {
+    "${color.name()} ${animal.unique.name()}".trim()
+  },
 ) {
-    init {
-        log("New connection: $name")
-    }
+  init {
+    log("New connection: $name")
+  }
 }

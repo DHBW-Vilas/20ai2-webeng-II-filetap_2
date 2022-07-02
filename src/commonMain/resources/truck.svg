@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 720 600.444" width="720pt" height="600.444pt"><defs><clipPath id="_clipPath_l1dqdyzz3GjmU4RUk7VExAjgn3sbH3Iu"><rect width="720" height="600.444"/></clipPath></defs><g clip-path="url(#_clipPath_l1dqdyzz3GjmU4RUk7VExAjgn3sbH3Iu)"><clipPath id="_clipPath_MIEzCxRqFhWPrYTXEzMvR5eKOUhvV4Rz"><rect x="0" y="0" width="720" height="600.444" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_MIEzCxRqFhWPrYTXEzMvR5eKOUhvV4Rz)"><path d=" M 659.77 505.848 L 64.23 505.848 C 37.611 505.848 16 484.237 16 457.618 L 16 103.23 C 16 76.611 37.611 55 64.23 55 L 387.164 55 C 413.783 55 435.394 76.611 435.394 103.23 L 435.394 159.848 L 535 159.848 C 549.467 159.848 568.679 168.915 577.875 180.082 L 691.337 317.857 C 700.533 329.024 708 349.836 708 364.303 L 708 457.618 C 708 484.237 686.389 505.848 659.77 505.848 Z " fill="rgb(124,81,0)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><path d=" M 152.303 61.291 L 126.901 180.255 C 124.363 192.139 132.169 201.788 144.321 201.788 L 226.103 201.788 C 238.255 201.788 250.181 192.139 252.719 180.255 L 278.121 61.291" fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><line x1="435.394" y1="159.848" x2="435.394" y2="505.848" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><path d=" M 466.848 347.527 L 466.848 265.745 C 466.848 259.38 472.016 254.212 478.382 254.212 L 549.679 254.212 C 556.044 254.212 564.44 258.248 568.417 263.218 L 637.886 350.055 C 641.863 355.025 639.923 359.061 633.558 359.061 L 478.382 359.061 C 472.016 359.061 466.848 353.893 466.848 347.527 Z " fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><mask id="_mask_wpGImENqxdYle77Y8PnMy11cFi8k0pdO"><circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674" r="73.39393939393938" fill="white" stroke="none"/></mask><circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674" r="73.39393939393938" fill="rgb(233,211,141)"/><circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674" r="73.39393939393938" fill="rgb(233,211,141)" mask="url(#_mask_wpGImENqxdYle77Y8PnMy11cFi8k0pdO)" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/><mask id="_mask_qao48aigm64JMJeRboCeBfIznZW7uv4H"><circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873" r="73.39393939393938" fill="white" stroke="none"/></mask><circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873" r="73.39393939393938" fill="rgb(233,211,141)"/><circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873" r="73.39393939393938" fill="rgb(233,211,141)" mask="url(#_mask_qao48aigm64JMJeRboCeBfIznZW7uv4H)" stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/></g><path d=" M 400 500 L 400 346 C 400 331.65 388.35 320 374 320 L 316 320 C 301.65 320 290 331.65 290 346 L 290 500" fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 720 600.444" width="720pt" height="600.444pt">
+    <defs>
+        <clipPath id="_clipPath_l1dqdyzz3GjmU4RUk7VExAjgn3sbH3Iu">
+            <rect width="720" height="600.444" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#_clipPath_l1dqdyzz3GjmU4RUk7VExAjgn3sbH3Iu)">
+        <clipPath id="_clipPath_MIEzCxRqFhWPrYTXEzMvR5eKOUhvV4Rz">
+            <rect x="0" y="0" width="720" height="600.444" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)" />
+        </clipPath>
+        <g clip-path="url(#_clipPath_MIEzCxRqFhWPrYTXEzMvR5eKOUhvV4Rz)">
+            <path
+                d=" M 659.77 505.848 L 64.23 505.848 C 37.611 505.848 16 484.237 16 457.618 L 16 103.23 C 16 76.611 37.611 55 64.23 55 L 387.164 55 C 413.783 55 435.394 76.611 435.394 103.23 L 435.394 159.848 L 535 159.848 C 549.467 159.848 568.679 168.915 577.875 180.082 L 691.337 317.857 C 700.533 329.024 708 349.836 708 364.303 L 708 457.618 C 708 484.237 686.389 505.848 659.77 505.848 Z "
+                fill="rgb(124,81,0)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)"
+                stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+            <path
+                d=" M 152.303 61.291 L 126.901 180.255 C 124.363 192.139 132.169 201.788 144.321 201.788 L 226.103 201.788 C 238.255 201.788 250.181 192.139 252.719 180.255 L 278.121 61.291"
+                fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)"
+                stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+            <line x1="435.394" y1="159.848" x2="435.394" y2="505.848" vector-effect="non-scaling-stroke"
+                stroke-width="12" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square"
+                stroke-miterlimit="3" />
+            <path
+                d=" M 466.848 347.527 L 466.848 265.745 C 466.848 259.38 472.016 254.212 478.382 254.212 L 549.679 254.212 C 556.044 254.212 564.44 258.248 568.417 263.218 L 637.886 350.055 C 641.863 355.025 639.923 359.061 633.558 359.061 L 478.382 359.061 C 472.016 359.061 466.848 353.893 466.848 347.527 Z "
+                fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)"
+                stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+            <mask id="_mask_wpGImENqxdYle77Y8PnMy11cFi8k0pdO">
+                <circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674"
+                    r="73.39393939393938" fill="white" stroke="none" />
+            </mask>
+            <circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674"
+                r="73.39393939393938" fill="rgb(233,211,141)" />
+            <circle vector-effect="non-scaling-stroke" cx="131.33333333333314" cy="484.87878787878674"
+                r="73.39393939393938" fill="rgb(233,211,141)" mask="url(#_mask_wpGImENqxdYle77Y8PnMy11cFi8k0pdO)"
+                stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square"
+                stroke-miterlimit="3" />
+            <mask id="_mask_qao48aigm64JMJeRboCeBfIznZW7uv4H">
+                <circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873"
+                    r="73.39393939393938" fill="white" stroke="none" />
+            </mask>
+            <circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873"
+                r="73.39393939393938" fill="rgb(233,211,141)" />
+            <circle vector-effect="non-scaling-stroke" cx="561.2121212121211" cy="484.8787878787873"
+                r="73.39393939393938" fill="rgb(233,211,141)" mask="url(#_mask_qao48aigm64JMJeRboCeBfIznZW7uv4H)"
+                stroke-width="24" stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square"
+                stroke-miterlimit="3" />
+        </g>
+        <path
+            d=" M 400 500 L 400 346 C 400 331.65 388.35 320 374 320 L 316 320 C 301.65 320 290 331.65 290 346 L 290 500"
+            fill="rgb(233,211,141)" vector-effect="non-scaling-stroke" stroke-width="12" stroke="rgb(0,0,0)"
+            stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+    </g>
+</svg>
