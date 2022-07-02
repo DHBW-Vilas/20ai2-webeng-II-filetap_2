@@ -29,6 +29,20 @@
 
 ## Usage
 
+### Build
+
+You can install [Devfile](https://github.com/Sett17/Devfile) and use the existing scripts in [`Devfile`](/Devfile) 
+to build the project and do other tasks, like renewing the cache or building the service worker.
+
+*NOTE: To use the `cache` or `sw` operations, you may need to install other specific tools*
+
+*NOTE2: The `deploy` operation is specific to my deployment environment*
+
+If you wish to no use Devfile, you can execute the gradle task `stage` with the argument `-PisProduction` E.g:
+```bash
+gradlew.bat stage -PisProduction
+```
+
 ### Server
 
 Execute `build/install/filetap/bin/filetap` or `build/install/filetap/bin/filetap.bat`, depending on your system, to start the server.
