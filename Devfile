@@ -1,13 +1,5 @@
-***stage*t
-start gradlew.bat stage -PisProduction --no-daemon
-
-***deploy*t*+PATH*
-if [ -z "$DEV_PATH" ]; then
-    DEV_PATH="~/web/"
-fi
-
-rsync -vr build/install/* "sett@okedikka.de:$DEV_PATH"
-ssh -t sett@okedikka.de "pm2 restart filetap"
+***stage|builds and provides install directory for deployment*t*w*
+gradlew.bat stage -PisProduction --no-daemon
 
 ***cache|sets cache name to date and time*t*
 DATE="$(date +%H%M%S-%d%m)"
@@ -16,6 +8,14 @@ echo "const cacheName = '$CACHENAME'" > src/commonMain/resources/cacheName.js
 echo Written to src/commonMain/resources/cacheName.js
 highlight -O ansi src/commonMain/resources/cacheName.js
 
-***sw*t*
+***sw|generate the service worker*t*
 cd src/commonMain/resources/
 workbox generateSW workbox-config.js
+
+***deploy*t*+PATH*
+if [ -z "$DEV_PATH" ]; then
+    DEV_PATH="~/web/"
+fi
+
+rsync -vr build/install/* "sett@okedikka.de:$DEV_PATH"
+ssh -t sett@okedikka.de "pm2 restart filetap"
